@@ -1,5 +1,21 @@
 # zikra_yeji
 {
+Proyek starter Node.js + Express untuk zikra_yeji.
+
+Fitur:
+- Server Express minimal dengan endpoint /health
+- Struktur direktori: src/, tests/
+- Skrip npm untuk start, dev, lint, test
+
+Cara menjalankan:
+1. Install dependencies:
+   npm install
+2. Jalankan server (development):
+   npm run dev
+3. Build & start (production):
+   npm start
+
+License: MIT
   "name": "zikra_yeji",
   "version": "0.1.0",
   "description": "Starter project for zikra_yeji",
